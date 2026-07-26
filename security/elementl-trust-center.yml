@@ -1,0 +1,18 @@
+generated: '2026-07-19'
+method: searched
+probe: false
+source: https://dagster.io/security
+url: https://dagster.io/security
+contact: trustcenter@dagsterlabs.com
+certifications:
+- SOC 2 Type II
+- HIPAA
+notes: >-
+  Dagster Labs (formerly Elementl, Inc.) publishes its security posture at
+  https://dagster.io/security. It holds a SOC 2 Type II report and states HIPAA
+  compliance for handling Protected Health Information. Audit reports and
+  penetration tests are available on request via trustcenter@dagsterlabs.com.
+  ISO 27001, GDPR, and PCI are not claimed on the page.
+evidence:
+- source: https://dagster.io/security
+  keywords: [soc 2 type ii, hipaa, security, trustcenter@dagsterlabs.com]

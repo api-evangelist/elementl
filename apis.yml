@@ -34,7 +34,7 @@ x-tier: profile
 x-tier-reason: portfolio-lead-enriched
 x-also-known-as: Dagster Labs
 x-product-profile: dagster
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:

@@ -13,6 +13,17 @@ description: >-
   $48.8M, including a $33M Series B (2023) led by Georgian with participation from
   Sequoia, Index Ventures, Amplify, 8VC, Human Capital, Hanover, and Slow. The Dagster
   product API surface is catalogued separately in the api-evangelist/dagster profile.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

@@ -48,16 +48,20 @@ x-product-profile: dagster
 specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
+x-docs-platform: docusaurus
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-10-03
+x-docs-hosting: vercel
 tags:
 - Company
-- Open-Source
+- Open Source
 - Data Orchestration
 - Data Engineering
 - Data Pipeline
 - DataOps
 - Observability
 - Analytics
-- Machine-Learning
+- Machine Learning
 - Cloud
 tags_raw:
 - Company
@@ -70,6 +74,8 @@ tags_raw:
 - Analytics
 - Machine Learning
 - Cloud
+- Open-Source
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane

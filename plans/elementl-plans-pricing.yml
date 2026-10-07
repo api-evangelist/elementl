@@ -1,0 +1,45 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://dagster.io/pricing
+sources:
+- https://dagster.io/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed+licensed
+  method: page
+  read: '2026-10-07'
+  evidence: Hybrid deployments — ECS, Kubernetes, Docker, Azure, local
+  managed_tier: Solo Plan
+published: true
+note: 'Dagster+ pricing: two numeric monthly tiers plus credit-based usage charges; Pro is contact sales.
+  Hybrid deployments listed as feature but no self-hosted free edition priced on page.'
+plan_count: 3
+currency: USD
+plans:
+- name: Solo Plan
+  price_text: $10 per month
+  price: 10
+  currency: USD
+  period: month
+  unit: plan
+  included_quota: 1 User, 1 Code location, 1 Deployment, 30-day free trial
+  overage: Pay-as-you-go $0.040/credit; Serverless compute $0.010/minute
+- name: Starter Plan
+  price_text: $100 per month
+  price: 100
+  currency: USD
+  period: month
+  unit: plan
+  included_quota: Up to 3 Users, 5 Code locations, 1 Deployment, Catalog Search, 30-day free trial
+  overage: Pay-as-you-go $0.035/credit; Serverless compute $0.010/minute
+- name: Pro Plan
+  price_text: Contact Sales
+  period: none
+  included_quota: Unlimited code locations, unlimited deployments, cost tracking and insights, SLAs
+  overage: Custom Serverless compute

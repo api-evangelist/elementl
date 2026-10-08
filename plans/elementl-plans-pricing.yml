@@ -43,3 +43,34 @@ plans:
   period: none
   included_quota: Unlimited code locations, unlimited deployments, cost tracking and insights, SLAs
   overage: Custom Serverless compute
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - hybrid
+  - metered
+  units: []
+  plans:
+  - name: Solo Plan
+    access: other
+    model: hybrid
+    model_how: derived
+    units:
+    - other
+    periods:
+    - month
+  - name: Starter Plan
+    access: other
+    model: hybrid
+    model_how: derived
+    units:
+    - other
+    periods:
+    - month
+  - name: Pro Plan
+    access: other
+    model: metered
+    model_how: derived
+    units: []
+    periods:
+    - none

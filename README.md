@@ -64,6 +64,100 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Elementl is a company surfaced as a portfolio company of index-ventures and added to the API Evangelist network as a stub for enrichment. Sector: open-source. This profile is a lead awaiting the enrichment pipeline.
+Elementl, Inc. is the company behind Dagster, rebranded as Dagster Labs in August 2023. Founded in 2018 by Nick Schrock (creator of GraphQL) and led by CEO Pete Hunt, the San Francisco company builds Dagster, an open-source, Apache-2.0 licensed, cloud-native data orchestration platform, and Dagster+, its managed cloud offering. Dagster's defining innovation is the Software-Defined Asset model, which treats data tables, ML models, and datasets as first-class, versioned objects with built-in lineage, data quality checks, and observability rather than as ordered task lists. The platform exposes a GraphQL API and a REST API for reporting external asset materializations, checks, and observations, plus Python and CLI clients. The company has raised roughly $48.8M, including a $33M Series B (2023) led by Georgian with participation from Sequoia, Index Ventures, Amplify, 8VC, Human Capital, Hanover, and Slow. The Dagster product API surface is catalogued separately in the api-evangelist/dagster profile.
 
-Backed by: index-ventures — http://elementl.com
+**Areas:** Company · Open Source · Data Orchestration · Data Engineering · Data Pipeline · DataOps · Observability · Analytics · Machine Learning · Cloud
+
+## Elementl on APIs.io
+
+Everything profiled for Elementl is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/elementl/](https://apis.io/providers/elementl/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Elementl Domain Security](https://apis.io/security/elementl/elementl-domain-security/)
+- [Elementl Trust Center](https://apis.io/security/elementl/elementl-trust-center/)
+- [Elementl Vulnerability Disclosure](https://apis.io/security/elementl/elementl-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Elementl Plans Pricing](https://apis.io/plans/elementl/elementl-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dagster.io)
+- [Documentation](https://docs.dagster.io)
+- [Getting started](https://docs.dagster.io/getting-started/quickstart)
+- [API reference](https://docs.dagster.io/api)
+- [Pricing](https://dagster.io/pricing)
+- [Sign up](https://dagster.plus/signup)
+- [Support](https://dagster.io/support)
+- [Blog](https://dagster.io/blog)
+- [Security](https://dagster.io/security)
+- [Compliance](https://dagster.io/security)
+- [Terms of service](https://dagster.io/terms)
+- [Privacy policy](https://dagster.io/privacy)
+- [GitHub](https://github.com/dagster-io)
+- [Status](https://dagstercloud.statuspage.io)
+
+## API Evangelist rating
+
+**Kin Score 37.2** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 28.9 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 92.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/elementl/](https://apis.io/providers/elementl/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Elementl: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/elementl/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
